@@ -1,9 +1,6 @@
-import os
-import random
 import sys
 import time
 
-list = open("user.txt", "r")
 # ================================================
 name = input("name File:")
 uesr = ''  # اليوزر المراد التخمين عليه بين النقطتين اكتبه
